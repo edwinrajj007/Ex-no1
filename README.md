@@ -56,9 +56,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|       1200              |          01              |
+|       1200              |          13              |
 
 #### Manual Calculations
 
@@ -110,8 +109,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|          1200           |          10              |
+|          1200           |          11              |
 #### Manual Calculations
 
 <img width="1600" height="1119" alt="WhatsApp Image 2026-10-15 at 10 48 43 AM" src="https://github.com/user-attachments/assets/8607ae8b-a3c6-4056-91fd-2dc80c2da49d" />
@@ -160,8 +159,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|          1200           |          42              |
+|          1200           |          81              |
 #### Manual Calculations
 
 <img width="1512" height="1502" alt="WhatsApp Image 2026-10-15 at 10 49 43 AM" src="https://github.com/user-attachments/assets/d2265095-85b6-4dd2-98fe-b74c267df5ef" />
@@ -206,8 +205,8 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|         1200            |         01               |
+|         1200            |         00               |
 #### Manual Calculations
 <img width="1600" height="1474" alt="WhatsApp Image 2026-10-15 at 10 49 09 AM" src="https://github.com/user-attachments/assets/e976d618-35e7-49af-ad89-2a47212a64a9" />
 
